@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Chào cậu!",
-  text2: "Tớ muốn làm quen vs cậu có đồng ý ko nào",
-  text3: "Chào cậu nhá, cho tớ cơ hội làm quen nhá ._.",
+  text1: "Chào em!",
+  text2: "Tôi muốn làm quen em có đồng ý ko nào",
+  text3: "Chào em nha thứ 7 tuần này có rảnh không dạy anh tiếng anh nhá._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là cậu đồng ý :v",
-  text5: "Cậu mơ à???",
-  text6: "Có có tớ đồng ý <3",
+  text5: "Anh mơ à???",
+  text6: "Có có em đồng ý <3",
   text7: "lí do cậu đồng ý :vvvv",
-  text8: "Gửi cho tớ <3",
-  text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^",
+  text8: "Gửi cho anh <3",
+  text9: "Vì Anh đẹp try vlllll",
+  text10: "Anh biết mà ^^",
   text11:
-    "Mong có cơ hội cùng cậu học tiếng anh nhá!",
+    "Mong có cơ hội được em chỉ dạy học tiếng anh nhá!",
   text12: "Okii lunn <3",
 };
 
